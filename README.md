@@ -26,10 +26,12 @@ yarn create next-app --example with-jest with-jest-app
 
 ```bash
 pnpm create next-app --example with-jest with-jest-app
+Manthan
 ```
 
 ## Running Tests
 
 ```bash
 npm test
+Manthan shekhawat
 ```
